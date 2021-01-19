@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  color: #2f1e0a;
+}
+
+p {
+  color: gray;
+
+}
+
+.tekst {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.underoverskrift {
+  color: #b1532d;
+  text-align: center;
+}
+
+img {
+  border-radius: 100px;
+  border-color: gray;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#liste1 {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  color: green;
+}
+
+body {
+  background-color:#eabd6c;
+  font-family: arial;
+  text-align: center;
+}
